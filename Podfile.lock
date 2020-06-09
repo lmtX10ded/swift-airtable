@@ -1,0 +1,21 @@
+PODS:
+  - SwiftAirtable (1.0.0)
+
+DEPENDENCIES:
+  - "SwiftAirtable (from `https://git@github.com/zackshapiro/SwiftAirtable.git`)"
+
+EXTERNAL SOURCES:
+  SwiftAirtable:
+    :git: "https://git@github.com/zackshapiro/SwiftAirtable.git"
+
+CHECKOUT OPTIONS:
+  SwiftAirtable:
+    :commit: 95430e8d060582e09d73e579204da87142dd85df
+    :git: "https://git@github.com/zackshapiro/SwiftAirtable.git"
+
+SPEC CHECKSUMS:
+  SwiftAirtable: 706881d498af753faff9c41abb8de8955d8e15d9
+
+PODFILE CHECKSUM: 352e6b4bb1f6a70ec068ff3f5dfbcf7f82efe6a1
+
+COCOAPODS: 1.9.3

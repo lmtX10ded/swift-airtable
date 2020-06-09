@@ -1,0 +1,6 @@
+module Pods_SuperSmash {
+  umbrella header "Pods-SuperSmash-umbrella.h"
+
+  export *
+  module * { export * }
+}

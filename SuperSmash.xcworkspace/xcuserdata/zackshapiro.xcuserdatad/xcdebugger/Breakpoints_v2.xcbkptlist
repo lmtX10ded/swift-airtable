@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C0ED4F39-ACA5-4EA8-9855-5F62412D4FE7"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C4974D6-3899-407A-AD46-56353EBB1B26"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/SwiftAirtable/SwiftAirtable/Classes/Airtable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "368"
+            endingLineNumber = "368"
+            landmarkName = "handleFetchResponse(with:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5BF825C8-D690-4B98-80FE-A1EFC6645A25"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/SwiftAirtable/SwiftAirtable/Classes/Airtable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "375"
+            endingLineNumber = "375"
+            landmarkName = "handleFetchResponse(with:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F72D3848-73ED-4769-86C0-09E8D56FD8E4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SuperSmash/SmashCharacter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "attachmentUrl(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFD502C0-1B4C-4D27-95E9-3E86773C7D84"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/SwiftAirtable/SwiftAirtable/Classes/Airtable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "401"
+            endingLineNumber = "401"
+            landmarkName = "extractObject(fromJsonFields:identifiedBy:following:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BFD502C0-1B4C-4D27-95E9-3E86773C7D84 - ba49402ca0a292f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftAirtable.AirtableTableSchemaFieldKey) -&gt; () in SwiftAirtable.Airtable.(extractObject in _062B5B349D0B0A980F02D9F1F0D26FB5)&lt;A where A: SwiftAirtable.AirtableObject&gt;(fromJsonFields: Swift.Dictionary&lt;Swift.String, Any&gt;, identifiedBy: Swift.String, following: SwiftAirtable.AirtableTableSchema) -&gt; A"
+                  moduleName = "SuperSmash"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zackshapiro/dev/SuperSmash/Pods/SwiftAirtable/SwiftAirtable/Classes/Airtable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "401"
+                  endingLineNumber = "401"
+                  offsetFromSymbolStart = "338">
+               </Location>
+               <Location
+                  uuid = "BFD502C0-1B4C-4D27-95E9-3E86773C7D84 - 61e2cde2e69374bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((key: Swift.String, value: Any)) -&gt; Swift.Bool in closure #1 (SwiftAirtable.AirtableTableSchemaFieldKey) -&gt; () in SwiftAirtable.Airtable.(extractObject in _062B5B349D0B0A980F02D9F1F0D26FB5)&lt;A where A: SwiftAirtable.AirtableObject&gt;(fromJsonFields: Swift.Dictionary&lt;Swift.String, Any&gt;, identifiedBy: Swift.String, following: SwiftAirtable.AirtableTableSchema) -&gt; A"
+                  moduleName = "SuperSmash"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zackshapiro/dev/SuperSmash/Pods/SwiftAirtable/SwiftAirtable/Classes/Airtable.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "401"
+                  endingLineNumber = "401"
+                  offsetFromSymbolStart = "130">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
